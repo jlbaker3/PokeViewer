@@ -9,7 +9,5 @@ This is a simple Android mobile application that displays all current pokemon wi
  
  ## Download
  
- To download, users can follow this path directory to find an apk file
- ``` 
- app/build/outputs/apk/debug/app-debug.apk
- ```
+ To download this application, users can download the app-debud.apk file and install it on an Android device version 8.0 or later.
+
